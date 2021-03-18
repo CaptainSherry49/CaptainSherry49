@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaptainSherry49
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pygame
+- 🌱 I’m currently learning Machine Learning. 
 - 💞️ I’m looking to collaborate on Artifiial Intelligence
 
 <!---
